@@ -1,0 +1,3 @@
+[submodule "inteco_custom"]
+	path = inteco_custom
+	url = https://github.com/stefanjaw/inteco_custom.git
